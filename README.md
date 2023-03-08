@@ -4,7 +4,7 @@
 
 <img src="./assets/img/main-icon.png" width="200"/></div>
 
-### Contributors
+### Authors
 <b>
 
 - Front End : [@Bedimcode](https://github.com/bedimcode)
