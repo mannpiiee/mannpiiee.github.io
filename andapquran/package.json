@@ -1,0 +1,34 @@
+{
+  "name": "alquranid",
+  "version": "2.0.2",
+  "description": "Al-Quran",
+  "author": "DrelezTM",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "build": "netlify-lambda build express"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.0",
+    "netlify-lambda": "^1.6.3",
+    "nodemon": "^1.19.2"
+  },
+  "repository": {
+    "url": "https://alquranid.herokuapp.com/"
+  },
+  "builds": [{
+    "src": "index.js",
+    "use": "@now/node"
+  }],
+  "routes": [{
+    "src": "/(.*)",
+    "dest": "index.js"
+  }],
+  "license": "MIT",
+  "keywords": [
+    "Al-Quran",
+    "DrelezTM"
+  ]
+}
