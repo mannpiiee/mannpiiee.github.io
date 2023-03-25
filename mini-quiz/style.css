@@ -50,7 +50,7 @@ body{
 }
 
 .info_box{
-    width: 250px;
+    width: 540px;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -108,7 +108,7 @@ body{
 }
 
 .quiz_box{
-    width: 250px;
+    width: 550px;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -311,7 +311,7 @@ footer button.show{
     border-radius: 5px;
     display: flex;
     padding: 25px 30px;
-    width: 260px;
+    width: 450px;
     align-items: center;
     flex-direction: column;
     justify-content: center;
