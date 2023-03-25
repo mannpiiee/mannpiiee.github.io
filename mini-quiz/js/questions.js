@@ -2,24 +2,24 @@
 let questions = [
     {
     numb: 1,
-    question: "Ada berapa zona waktu di Rusia?",
-    answer: "b. 11",
+    question: "Ada berapa benua di bumi?",
+    answer: "b. 7",
     options: [
-      "a. 15",
-      "b. 11",
-      "c. 14",
-      "d. 16"
+      "a. 4",
+      "b. 7",
+      "c. 9",
+      "d. 6"
     ]
   },
     {
     numb: 2,
-    question: "Berapa banyak garis yang ada di bendera Amerika Serikat?",
-    answer: "d. 13.7 garis merah dan 6 garis putih",
+    question: "Negara yang menjajah indonesia selain Jepang dan Belanda adalah?",
+    answer: "d. Portugis, Spanyol, Inggris",
     options: [
-      "a. 20 garis merah dan 3 garis putih",
-      "b. 16.4 garis merah dan 7 garis putih",
-      "c. 10.3 garis merah dan 5 garis putih",
-      "d. 13.7 garis merah dan 6 garis putih"
+      "a. Australia, Rusia, Jerman",
+      "b. Korea Utara, China, Amerika",
+      "c. Jerman, Amerika, Rusia",
+      "d. Portugis, Spanyol, Inggris"
     ]
   },
     {
@@ -35,35 +35,35 @@ let questions = [
   },
     {
     numb: 4,
-    question: "Berapa banyak kunci piano?",
-    answer: "c. 88 kunci, 52 putih dan 36 hitam",
+    question: "Hewan terkecil di dunia?",
+    answer: "c. Amuba",
     options: [
-      "a. 69 kunci, 43 putih dan 26 hitam",
-      "b. 90 kunci, 75 putih dan 15 hitam",
-      "c. 88 kunci, 52 putih dan 36 hitam",
-      "d. 100 kunci, 66 putih dan 34 hitam"
+      "a. Kutu Air",
+      "b. Tardigrada",
+      "c. Amuba",
+      "d. Tengu"
     ]
   },
     {
     numb: 5,
-    question: "Berapa banyak tulang yang dimiliki rata-rata orang dewasa?",
-    answer: "a. 206",
+    question: "Sabah adalah kawasan yang berada di?",
+    answer: "a. Malaysia",
     options: [
-      "a. 206",
-      "b. 179",
-      "c. 221",
-      "d. 237"
+      "a. Malaysia",
+      "b. Singapura",
+      "c. Vietnam",
+      "d. Indonesia"
     ]
   },
   {
     numb: 6,
-    question: "Apakah laba-laba termasuk serangga?",
-    answer: "c. Tidak",
+    question: "Hewan dengan solidaritas tinggi adalah?",
+    answer: "c. Semut",
     options: [
-      "a. Iya",
-      "b. Mungkin",
-      "c. Tidak",
-      "d. Termasuk"
+      "a. Laba-laba",
+      "b. Gajah",
+      "c. Semut",
+      "d. Harimau"
     ]
   },
   {
@@ -90,13 +90,13 @@ let questions = [
   },
   {
   numb: 9,
-    question: "Ibu kota kanada?",
-    answer: "a. Ottawa",
+    question: "Ketakutan berlebihan terhadap suatu hal disebut?",
+    answer: "a. Phobia",
     options: [
-      "a. Ottawa",
-      "b. Toronto",
-      "c. Montreal",
-      "d. Vancouver"
+      "a. Phobia",
+      "b. Trauma",
+      "c. Ancaman",
+      "d. Ketakutan"
     ]
   },
   {
@@ -112,35 +112,35 @@ let questions = [
   },
   {
   numb: 11,
-    question: "Tahun berapa uni soviet bubar?",
-    answer: "b. Desember 1991",
+    question: "Negara terkaya di dunia?",
+    answer: "b. Luksemburg",
     options: [
-      "a. Maret 1989",
-      "b. Desember 1991",
-      "c. Januari 1946",
-      "d. Agustus 1997"
+      "a. Qatar",
+      "b. Luksemburg",
+      "c. Arab Saudi",
+      "d. Amerika Serikat"
     ]
   },
   {
   numb: 12,
-    question: "Universitas tertua yang masih beroperasi?",
-    answer: "a. Al Qarawiyying, Maroko",
+    question: "Mamalia tertinggi adalah?",
+    answer: "a. Jerapah",
     options: [
-      "a. Al Qarawiyying, Maroko",
-      "b. King Saud, Arab Saudi",
-      "c. Zhejiang, China",
-      "d. UGM, Malang"
+      "a. Jerapah",
+      "b. Gajah",
+      "c. Singa",
+      "d. Burung"
     ]
   },
   {
   numb: 13,
-    question: "10 Angka pertama dari π (pi) adalah?",
-    answer: "c. 3,1415926535",
+    question: "Jumlah provinsi indonesia saat ini?",
+    answer: "c. 38 provinsi",
     options: [
-      "a. 3,141592654",
-      "b. 3,141592920",
-      "c. 3,1415926535",
-      "d. 3,1419343268"
+      "a. 34 provinsi",
+      "b. 36 provinsi",
+      "c. 38 provinsi",
+      "d. 37 provinsi"
     ]
   },
   {
@@ -178,46 +178,156 @@ let questions = [
   },
   {
   numb: 17,
-    question: "Bulan apa kapal Titanic tenggelam?",
-    answer: "a. April, 1912",
+    question: "Senjata indonesia saat masa penjajahan?",
+    answer: "d. Bambu Runcing",
     options: [
-      "a. April, 1912",
-      "b. Februari, 1909",
-      "c. Juli, 1912",
-      "d. September, 1909"
+      "a. Samurai",
+      "b. Senapan Jarak Jauh",
+      "c. Celurit",
+      "d. Bambu Runcing"
     ]
   },
   {
   numb: 18,
-    question: "Berapa panjang ukuran kolam renang untuk olimpiade?",
-    answer: "c. 50 meter",
+    question: "Satu-satunya wilayah gunung Indonesia yang bersalju adalah?",
+    answer: "c. Jayawijaya, Papua",
     options: [
-      "a. 42 meter",
-      "b. 28 meter",
-      "c. 50 meter",
-      "d. 60 meter"
+      "a. Merbabu, Jateng",
+      "b. Semeru, Jatim",
+      "c. Jayawijaya, Papua",
+      "d. Krakatau, Lampung"
     ]
   },
   {
   numb: 19,
-    question: "Negara penemu es krim adalah?",
-    answer: "c. China",
+    question: "Negara termiskin di dunia?",
+    answer: "c. Burundi",
     options: [
-      "a. Swiss",
-      "b. Turki",
-      "c. China",
-      "d. Oman"
+      "a. Indonesia",
+      "b. Timor Leste",
+      "c. Burundi",
+      "d. Kongo"
     ]
   },
   {
   numb: 20,
-    question: "Berapa jumlah ayat dalam Al-Qur'an menurut ulama Al-Kufi dan Syekh Nawawi?",
-    answer: "b. Al-Kufi 6.236 ayat, Syekh Nawawi 6.666 ayat",
+    question: "Tanda-tanda kehidupan di bumi pertama kali terjadi di?",
+    answer: "b. Laut",
     options: [
-      "a. Al-Kufi 6.205 ayat, Syekh Nawawi 6.436 ayat",
-      "b. Al-Kufi 6.236 ayat, Syekh Nawawi 6.666 ayat",
-      "c. Al-Kufi 6.217 ayat, Syekh Nawawi 6.232 ayat",
-      "d. Al-Kufi 6.223 ayat, Syekh Nawawi 6.566 ayat"
+      "a. Darat",
+      "b. Laut",
+      "c. Gua",
+      "d. Langit"
+    ]
+  },
+  {
+  numb: 21,
+    question: "Kepanjangan dari Satpol PP?",
+    answer: "d. Satuan Polisi Pamong Praja",
+    options: [
+      "a. Satuan Polisi Pemuda Pancasila",
+      "b. Satuan Polisi Penarik Pajak",
+      "c. Satuan Polisi Para Penilang",
+      "d. Satuan Polisi Pamong Praja"
+    ]
+  },
+  {
+  numb: 22,
+    question: "Jumlah huruf Abjad?",
+    answer: "b. 26",
+    options: [
+      "a. 22",
+      "b. 26",
+      "c. 28",
+      "d. 24"
+    ]
+  },
+  {
+  numb: 23,
+    question: "Tari Kecak berasal dari?",
+    answer: "d. Bali",
+    options: [
+      "a. Lampung",
+      "b. Jawa",
+      "c. Baduy",
+      "d. Bali"
+    ]
+  },
+  {
+  numb: 24,
+    question: "29 Februari terjadi 4 tahun sekali, tahun dimana ada tanggal tersebut disebut?",
+    answer: "a. Tahun Kabisat",
+    options: [
+      "a. Tahun Kabisat",
+      "b. Tahun Baru Islam",
+      "c. Hari Raya Nyepi",
+      "d. Hari Buruh Sedunia"
+    ]
+  },
+  {
+  numb: 25,
+    question: "Negara terbesar dan terkecil di dunia?",
+    answer: "a. Rusia terbesar, Vatikan terkecil",
+    options: [
+      "a. Rusia terbesar, Vatikan terkecil",
+      "b. Amerika terbesar, Korut terkecil",
+      "c. China terbesar, Singapura terkecil",
+      "d. Jerman terbesar, Swiss terkecil"
+    ]
+  },
+  {
+  numb: 26,
+    question: "Kadal terbesar di dunia?",
+    answer: "b. Komodo",
+    options: [
+      "a. Deny Cagur",
+      "b. Komodo",
+      "c. Biawak",
+      "d. Buaya"
+    ]
+  },
+  {
+  numb: 27,
+    question: "Hewan yang paling banyak menyebabkan Kematian?",
+    answer: "a. Nyamuk",
+    options: [
+      "a. Nyamuk",
+      "b. Ular",
+      "c. Kudanil",
+      "d. Singa"
+    ]
+  },
+  {
+  numb: 28,
+    question: "Jepang menjajah Indonesia selama?",
+    answer: "d. 3,5 tahun",
+    options: [
+      "a. 350 tahun",
+      "b. 7,2 tahun",
+      "c. 4,5 tahun",
+      "d. 3,5 tahun"
+    ]
+  },
+  {
+  numb: 29,
+    question: "Apa saja warna primer?",
+    answer: "c. Merah, Kuning, Biru",
+    options: [
+      "a. Merah, Biru, Ungu",
+      "b. Merah, Kuning, Hijau",
+      "c. Merah, Kuning, Biru",
+      "d. Merah, Hitam, Putih"
+    ]
+  },
+  {
+  numb: 30,
+    question: "Berapa banyak negara yang diakui di dunia?",
+    answer: "a. 195 negara",
+    options: [
+      "a. 195 negara",
+      "b. 206 negara",
+      "c. 186 negara",
+      "d. 194 negara"
     ]
   },
 ];
