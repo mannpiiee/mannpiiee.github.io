@@ -8,7 +8,7 @@
 <b>
 
 - Front End : [@Bedimcode](https://github.com/bedimcode)
-- Content & RM : [@Mxdies](https://github.com/mxdies)
+- Content & RM : [@Mannpiee](https://github.com/mxdies)
 </b>
 
 <div align="center"/>
