@@ -7,6 +7,6 @@
 <div align="center">
 <b>
 Origin by [@Bedimcode](https://github.com/bedimcode)
-🔥See Websites [HERE!](https://mxdies.github.io)🔥
+🔥See Websites [HERE!](https://mannpiiee.github.io)🔥
 </b>
 </div>
