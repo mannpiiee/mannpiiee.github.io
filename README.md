@@ -4,14 +4,9 @@
 
 <img src="./assets/img/main-icon.png" width="200"/></div>
 
-### Authors
+<div align="center">
 <b>
-
-- Front End : [@Bedimcode](https://github.com/bedimcode)
-- Content & RM : [@Mannpiee](https://github.com/mxdies)
+Origin by [@Bedimcode](https://github.com/bedimcode)
+🔥See Websites [HERE!](https://mxdies.github.io)🔥
 </b>
-
-<div align="center"/>
-
-<b>🔥See Websites [HERE!](https://mxdies.github.io)🔥</b>
 </div>
